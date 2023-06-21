@@ -1,7 +1,7 @@
 # BloodBank
 
 Design of a Blood Bank system that enables nurses to save and access data of their clients, evaluating statistics and useful information for blood bank management.
-In this project, a database implemented with SQLite was used, connected to the Java application using JDBC and JPG APIs.
+In this project, a database implemented with SQLite was used, connected to the Java application using JDBC and JPA APIs.
 
 
 ![UseCase-Diagram](https://github.com/Angelo-De-Nadai/BloodBank/assets/80247207/978ae6c8-6a4d-4b2c-b360-c56980932b4f)
